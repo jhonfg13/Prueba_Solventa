@@ -1,0 +1,6 @@
+DB/
+Informes/
+Validaciones/
+*.py
+Codigo/__pycache__/
+.ipynb_checkpoints
